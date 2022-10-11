@@ -58,13 +58,7 @@ coffee & espresso. I'm beginning to get into climbing, and I hope to
 explore cross-country skiing in the near future!  
 **research**: 
   
-<<<<<<< HEAD
-5.Alex Cornwell
-Acornwell2@alaska.edu
-M.S. Graduate Student Biological Sciences  
-=======
 <br>
->>>>>>> upstream/main
   
 ## Isaac Van Flein
 *Graduate Student in UAF Biological Sciences*
@@ -73,14 +67,14 @@ M.S. Graduate Student Biological Sciences
 **about me**: I am a hair-covered biped native to a small rocky planet with a liquid-dominant water cycle. My favorite activities are consuming nutrients and respiring oxygen to sustain my cellular activity.   
 **research**: 
   
-  <br>
+<br>
 
 ## Alex Cornwell
 *Student*
 
 **email**: acornwell2@alaska.edu  
-**about me**:    
-**research**: 
+**about me**: I like to drink coffee!   
+**research**: I am researching the role of Hydrogen Sulfide producing enzymes in Macrophage inflammatory response.
 
 
 <br>
